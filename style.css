@@ -1,0 +1,12 @@
+body{
+    background-image: linear-gradient(rgb(190, 53, 106), rgb(120, 0, 201));
+    color: white;
+}
+.name_of_objects{
+    color: rgb(255, 196, 205);
+    font-size: 45px;
+    font-family: 'Teko', sans-serif;
+}
+.heading{
+    font-size: 25px;
+}
